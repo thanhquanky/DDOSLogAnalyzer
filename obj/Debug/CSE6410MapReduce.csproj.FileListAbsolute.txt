@@ -1,0 +1,2 @@
+C:\Users\thanhquanky\Documents\Visual Studio 2012\Projects\Squareroot3\Squareroot3\bin\Debug\CSE6410MapReduce.exe.config
+C:\Users\Worm\Downloads\Squareroot3\Squareroot3\Squareroot3\bin\Debug\CSE6410MapReduce.exe.config
